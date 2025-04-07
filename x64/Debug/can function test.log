@@ -1,0 +1,5 @@
+﻿  can function test.c
+C:\Users\victus\Desktop\STEERING BY WIRE\embedded\can function test\can function test\can function test.c(64,44): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\victus\Desktop\STEERING BY WIRE\embedded\can function test\can function test\can function test.c(330,33): warning C4020: 'decode_data': too many actual parameters
+C:\Users\victus\Desktop\STEERING BY WIRE\embedded\can function test\can function test\can function test.c(212,1): warning C4716: 'encode_data': must return a value
+  can function test.vcxproj -> C:\Users\victus\Desktop\STEERING BY WIRE\embedded\can function test\x64\Debug\can function test.exe
